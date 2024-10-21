@@ -1,0 +1,10 @@
+Algoritmo CicloFord
+	Definir entrada, nya Como Entero
+	Escribir "Ingrese un número de repeticiones";
+	Leer entrada
+	Escribir "Ingrese valor de entrada";
+	leer nya;
+	Para i<-nya Hasta entrada Con Paso 2 Hacer
+		Escribir i;
+	FinPara
+FinAlgoritmo
