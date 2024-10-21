@@ -1,0 +1,21 @@
+//Ciclo While
+
+Algoritmo CicloWhile
+	Definir entrada Como Caracter;
+	entrada="si";
+	Mientras entrada="si" Hacer
+		Escribir "Desea repetir el ciclo?";
+		Leer entrada;
+	FinMientras
+FinAlgoritmo
+
+//
+
+Algoritmo CicloFord
+	Definir i Como entero
+	i=10;
+	Mientras i>=0 Hacer
+		Escribir i;
+		i=i-1;
+	FinMientras
+FinAlgoritmo
