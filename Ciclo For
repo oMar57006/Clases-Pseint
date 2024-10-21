@@ -8,3 +8,18 @@ Algoritmo CicloFord
 		Escribir i;
 	FinPara
 FinAlgoritmo
+//
+//Nuevo codigo, multiplicación de 3
+//
+Algoritmo CicloFord
+	Definir entrada, nya, desu Como Entero
+	Escribir "Ingrese un número de repeticiones";
+	Leer entrada
+	Escribir "Ingrese valor de entrada";
+	leer nya;
+	Escribir "Ingrese valor de secuencia";
+	leer desu;
+	Para i<-nya Hasta entrada Con Paso desu Hacer
+		Escribir 3, " * ", i, " = ", i*3;
+	FinPara
+FinAlgoritmo
