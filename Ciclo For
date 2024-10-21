@@ -9,7 +9,7 @@ Algoritmo CicloFord
 	FinPara
 FinAlgoritmo
 //
-//Nuevo codigo, multiplicación de 3
+// Nuevo codigo, multiplicación de 3 //
 //
 Algoritmo CicloFord
 	Definir entrada, nya, desu Como Entero
