@@ -60,17 +60,3 @@ Algoritmo SumarCicloRepetir
 	Mientras que (i<=100)
 	Escribir "cantidad de números pares encontrados ",contador;
 FinAlgoritmo
-
-// Taller Grupal grupo 4
-
-Algoritmo Numer
-	Definir i, contador, su como entero
-	contador=0;
-	Para i<- 1 hasta 10 Hacer
-		Escribir "Ingresa un número";
-		leer numero;
-		contador<- contador + numero;
-	FinPara
-	promedio <-contador/10
-	Escribir "El promedio por los números ingresados es: ",promedio;
-FinAlgoritmo
