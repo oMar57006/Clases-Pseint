@@ -28,3 +28,18 @@ Algoritmo SumarCicloPara
 	FinPara
 	Escribir "Cantidad de números pares encontrados ", contador;
 FinAlgoritmo
+
+//
+
+Algoritmo SumarCicloMientras
+	Definir i, contador como entero
+	contador=0;
+	i=1;
+	Mientras (i<=100) Hacer
+		si i mod 2=0 Entonces
+			contador=contador+1; 
+		FinSi
+		i=i+1;
+	FinMientras
+	Escribir "cantidad de números pares encontrados ",contador;
+FinAlgoritmo
