@@ -1,3 +1,4 @@
+//Ejemplo en clase
 Algoritmo sin_titulo
 	Definir i Como Entero;
 	Para i=0 Hasta 5 Con Paso 1 Hacer
@@ -9,14 +10,15 @@ Algoritmo sin_titulo
 		Escribir "Ciclo mientras-> ", i;
 		i=i+1;
 	FinMientras
-FinAlgoritmo
-
-//
 	Repetir
 		Escribir "Ciclo repetir -> ",i;
 		i=i+1;
 	Mientras Que i<=5
-//
+FinAlgoritmo
+
+//////////////////////////////////////////////////////////////
+
+//Actividad individual (subida a campus)
 
 Algoritmo SumarCicloPara
 	Definir i, contador como entero
@@ -29,7 +31,7 @@ Algoritmo SumarCicloPara
 	Escribir "Cantidad de números pares encontrados ", contador;
 FinAlgoritmo
 
-//
+//Actividad individual (subida a campus)
 
 Algoritmo SumarCicloMientras
 	Definir i, contador como entero
@@ -44,7 +46,7 @@ Algoritmo SumarCicloMientras
 	Escribir "cantidad de números pares encontrados ",contador;
 FinAlgoritmo
 
-//
+//Actividad individual (subida a campus)
 
 Algoritmo SumarCicloRepetir
 	Definir i, contador como entero
@@ -59,7 +61,7 @@ Algoritmo SumarCicloRepetir
 	Escribir "cantidad de números pares encontrados ",contador;
 FinAlgoritmo
 
-//
+// Taller Grupal grupo 4
 
 Algoritmo Numer
 	Definir i, contador, su como entero
