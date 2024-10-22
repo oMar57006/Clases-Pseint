@@ -1,0 +1,12 @@
+Algoritmo sin_titulo
+	Definir i Como Entero;
+	Para i=0 Hasta 5 Con Paso 1 Hacer
+		Escribir "Ciclo para -> ",i;
+	FinPara
+	
+	i=0
+	Mientras i<=5 Hacer
+		Escribir "Ciclo mientras-> ", i;
+		i=i+1;
+	FinMientras
+FinAlgoritmo
