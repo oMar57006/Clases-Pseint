@@ -52,7 +52,7 @@ Algoritmo SumarCicloRepetir
 	i=1;
 	Repetir 
 		si i mod 2=0 Entonces
-			contador=contador+1; 
+			Escribir i; 
 		FinSi
 		i=i+1;
 	Mientras que (i<=100)
