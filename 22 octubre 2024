@@ -10,3 +10,9 @@ Algoritmo sin_titulo
 		i=i+1;
 	FinMientras
 FinAlgoritmo
+
+//
+	Repetir
+		Escribir "Ciclo repetir -> ",i;
+		i=i+1;
+	Mientras Que i<=5
